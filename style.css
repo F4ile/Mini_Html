@@ -1,0 +1,70 @@
+.menu {
+  text-decoration: none;
+  color: dodgerblue;
+  font-family: helvetica;
+  font-weight: bold;
+}
+.menu:hover {
+  color: green;
+}
+p {
+  font-family: helvetica;
+}
+h2{
+  font-weight: bold;
+  font-family: helvetica;
+  color: dodgerblue;
+}
+.cor2{
+  font-weight: bold;
+  font-family: helvetica;
+  color: green;
+}
+.cor1{
+  font-weight: bold;
+  font-family: helvetica;
+  color: red;
+}
+figure {
+  border: 2px solid dodgerblue;
+  border-radius: 4px;
+  padding: 0px;
+  width: 160px;
+}
+figcaption {
+  padding: 2px;
+}
+.info{
+  text-decoration: none;
+  color: dodgerblue;
+  font-weight: bold;
+}
+button:hover {
+  background-color: green;
+}
+.btn_play {
+  background: dodgerblue;
+  border: none;
+  border-radius: 2px;
+  width: 50%;
+  height: 25px;
+  margin: 2px;
+  margin-left: 25%;
+  color: white;
+}
+input,textarea {
+  height: 25px;
+  width: 90%;
+  outline-color: dodgerblue;
+}
+#buscar {
+  background: dodgerblue;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  width: 9%;
+  height: 25px;
+}
+.img1 {
+  width: 160px;
+}
